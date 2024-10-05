@@ -1,0 +1,15 @@
+
+html{
+    overflow: hidden;
+}
+
+#game {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:9rem;
+    margin-left:13rem;
+    background: #ffffff;
+    text-align: center;
+    height:45rem;
+} 
